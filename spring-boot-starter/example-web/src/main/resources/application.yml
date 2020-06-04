@@ -7,3 +7,5 @@ spring:
   security.user: 
     name: demo
     password: demo
+
+management.health.camunda.enabled: true
